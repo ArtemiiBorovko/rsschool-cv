@@ -192,6 +192,8 @@ I'm currently helping a JS developer friend with a GPT chat based application. T
 ## Languages:
 * Russian - native
 * English - A2 (Duolingo  English language)
+&nbsp;
+
 ![duolingo](/img/duolingo.png)
 
 
