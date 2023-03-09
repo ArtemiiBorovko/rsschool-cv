@@ -23,7 +23,7 @@ Technical devices.
 ![home](/img/home.jpg)
 ![door](/img/door.jpg)
 
-&nbsp;a
+&nbsp;
 
 &nbsp; I also had a company that developed multimedia products, including websites [Aerostat multimedia](https://yandex.ru/search/?text=aerostat+multimedia&search_source=dzen_desktop_safe&src=suggest_Nin&lr=2). I drew a logo, corporate identity, design, negotiated with clients.
 
