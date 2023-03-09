@@ -8,7 +8,7 @@
 * Phone: +7 911 793-90-03 
 * E-mail: artemiy-borovko@yandex.ru 
 * Telegram: @century
-* Behance: https://www.behance.net/artemiiborovko
+* Behance: [artemiiborovko](https://www.behance.net/artemiiborovko)
 
 ---
 
