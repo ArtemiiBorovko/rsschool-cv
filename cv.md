@@ -1,21 +1,28 @@
 # Artemii Borovko 
 
+&nbsp;
+
 ## Contacts
 
-| Name | Data |
-| - | - |
-| Location | [Saint Petersburg](https://ru.wikipedia.org/wiki/%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3)|
-| Phone | +7 911 793-90-03 |
-| E-mail | artemiy-borovko@yandex.ru |
-| Telegram | @century |
-| Behance | https://www.behance.net/artemiiborovko
+* Location: [Saint Petersburg](https://ru.wikipedia.org/wiki/%D0%A1%D0%B0%D0%BD%D0%BA%D1%82-%D0%9F%D0%B5%D1%82%D0%B5%D1%80%D0%B1%D1%83%D1%80%D0%B3)
+* Phone: +7 911 793-90-03 
+* E-mail: artemiy-borovko@yandex.ru 
+* Telegram: @century
+* Behance: https://www.behance.net/artemiiborovko
+
 ---
+
+&nbsp;
+
 ## About Me
-I worked in various fields, had a small business in the field of construction, forged products     ([forge](https://vk.com/club32689149)), designed and invented various
+&nbsp; I worked in various fields, had a small business in the field of construction, forged products     ([forge](https://vk.com/club32689149)), designed and invented various
 Technical devices. I also had a company that developed multimedia products, including websites [Aerostat multimedia](https://yandex.ru/search/?text=aerostat+multimedia&search_source=dzen_desktop_safe&src=suggest_Nin&lr=2). I drew a logo, corporate identity, design, negotiated with clients.
 
 **I want to learn how to make web applications to implement ideas and launch startups.**
-___
+
+---
+
+&nbsp;
 
 ## Skils 
 * Git - basic
@@ -25,10 +32,15 @@ ___
 * Zbrush.
 * Adobe Illustrator.
 * Figma.
-___
+
+---
+
+&nbsp;
 
 ## Code example:
-<br><br/>
+
+&nbsp;
+
 **<font size="3">Valid Parentheses</font>**
 
 **<font size="3">Description</font>**:
@@ -60,7 +72,6 @@ function validParentheses(parens){
   return result == 0;
 }
 ```
-<br></br>
 
 **<font size="3">Pascal’s Triangle #2</font>**
 
@@ -90,7 +101,6 @@ function pascal(depth) {
   return arr;
 }
 ```
-<br></br>
 
 **<font size="3">Highest Scoring Word</font>**
 
@@ -135,29 +145,38 @@ function high(x) {
   return maxWord;
 }
 ```
-___
+
+---
+
+&nbsp;
 
 ## Experience
-I made two cross platform games. Hocclic https://artemii-borovko.itch.io/hocclick (JavaScript). Big little solder https://artemii-borovko.itch.io/bls (JavaScript)
+&nbsp; I made two cross platform games. Hocclic https://artemii-borovko.itch.io/hocclick (JavaScript). Big little solder https://artemii-borovko.itch.io/bls (JavaScript)
 I'm currently helping a JS developer friend with a GPT chat based application. This is the first practical experience.
-___
+
+---
+
+&nbsp;
 
 ## Education
 1. **LSU Pushkin - psychologist.**
 2. **SABU -architect.**
 3. **UofB - physicist-engineer (rocket science).**
-* Yandex data analyst.
-* OofMichigan - HTML.
-* SoftLine Education - Js.
-* SoloLearn (JS, jQuery, SQL, HTML, CSS, Python 3, PHP, C#, JAVA).
-* HTML academy.
-* CS50
-___
+4. Yandex data analyst.
+5. OofMichigan - HTML.
+6. SoftLine Education - Js.
+7. SoloLearn (JS, jQuery, SQL, HTML, CSS, Python 3, PHP, C#, JAVA).
+8. HTML academy.
+9. CS50
+
+---
+
+&nbsp;
 
 ## Languages:
 * Russian - native
-* English - A2 (Dualingo  English language)
-___
+* English - A2 (Duolingo  English language)
+---
 
 
 
