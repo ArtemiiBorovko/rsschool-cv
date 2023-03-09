@@ -16,9 +16,15 @@
 
 ## About Me
 &nbsp; I worked in various fields, had a small business in the field of construction, forged products     ([forge](https://vk.com/club32689149)), designed and invented various
-Technical devices. I also had a company that developed multimedia products, including websites [Aerostat multimedia](https://yandex.ru/search/?text=aerostat+multimedia&search_source=dzen_desktop_safe&src=suggest_Nin&lr=2). I drew a logo, corporate identity, design, negotiated with clients.
+Technical devices. 
+![home](/img/home.jpg)
+![door](/img/door.jpg)
 
-**I want to learn how to make web applications to implement ideas and launch startups.**
+&nbsp; I also had a company that developed multimedia products, including websites [Aerostat multimedia](https://yandex.ru/search/?text=aerostat+multimedia&search_source=dzen_desktop_safe&src=suggest_Nin&lr=2). I drew a logo, corporate identity, design, negotiated with clients.
+![webMain](/img/webMain.jpg)
+![web](/img/web.jpg)
+
+&nbsp; **I want to learn how to make web applications to implement ideas and launch startups.**
 
 ---
 
@@ -176,6 +182,7 @@ I'm currently helping a JS developer friend with a GPT chat based application. T
 ## Languages:
 * Russian - native
 * English - A2 (Duolingo  English language)
+![duolingo](/img/duolingo.png)
 ---
 
 
