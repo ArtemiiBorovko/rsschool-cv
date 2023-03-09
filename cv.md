@@ -21,8 +21,6 @@ Technical devices.
 &nbsp;
 
 ![home](/img/home.jpg)
-<img src="/img/home.jpg" alt="home" width="200"/>
-<img src="/img/home.jpg" alt="home" style="width:200px;"/>
 ![door](/img/door.jpg)
 
 &nbsp;a
