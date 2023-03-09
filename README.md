@@ -1,2 +1,1 @@
-# rsschool-cv
-Repository for rsschool-cv.
+https://artemiiborovko.github.io/rsschool-cv/cv
